@@ -1,0 +1,7 @@
+{
+  "name": "VitalityAI Health",
+  "description": "A premium, AI-powered healthcare and wellness platform with smart profiling, personalized dashboards, and local health insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
